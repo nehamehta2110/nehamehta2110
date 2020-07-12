@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="40" height="40" />
+
 
 <!--
 **nehamehta2110/nehamehta2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="40" height="40" />
 
 - 🔭 I’m currently working on Natural Language Processing (NLP) project on machine translation model, sentiment analysis and text summarization. 
 
