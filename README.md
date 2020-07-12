@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Natural Language Processing (NLP) project on machine translation model, sentiment analysis and text summarization. 
 
 - 🌱 I’m currently learning NLP, ML, data structures and algorithms.
-- 💬 I'm a machine Learning enthusiast, programmer and a passionate learner with keen interest in development and solving real life problems, always willing to learn and work across technologies and domains. Ask me about collaborating and open source projects on python programming and data science.
+- 💬 I'm a machine Learning enthusiast, programmer and a passionate learner with keen interest in development and solving real life problems, always willing to learn and work across technologies and domains. Ask me about collaborating and open source projects on python programming and data science. <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" width="30" height="30" />
 
 - ✨ I have worked on projects such as Sentiment Analysis of a Fortune 500 brand, Automobile Website Scraping and Prediction, Medical report categorization, Name to Community prediction, Dynamic Typing Tutor and have an internship experience as SDE and ML intern at Innovative Tech Lab
 
